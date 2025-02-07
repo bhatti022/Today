@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{ int a,b,c;
+   cout<<" Enter the 1st vlue of a="; cin>>a; 
+   cout<<"Enter the 2nd value of b="; cin>>b;
+   c= a+b;
+   cout<<"sum of values= "<<c; 
+	
+}
